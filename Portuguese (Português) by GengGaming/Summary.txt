@@ -1,0 +1,17 @@
+A Partida Acabou!
+SCPs Venceram
+MTF Venceram
+CLASS-D Venceram
+Empate
+A fundacao é responsavel por matar [summary_scpfrags] Humanos.
+Ameaca foi Neutralizada. A Fundação esta Segura novamente.
+Toda a segurança da Fundacao foi Neutralizada.
+Os dois lados perderam significadamente. O vencedor e indeterminado.
+[summary_d_escaped] class-d escaparam
+[summary_s_escaped] scientist(s) soberviveram
+A detonacao teminou com a vida de [summary_warhead_kills] Seres vivos.
+A "Alpha Warhead" nao foi detonada nessa Missao de CONTAIMENTBREACH.
+A missao demorou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
+[summary_scp_terminated] SCPs foram neutralizados.
+Proxima partida comecara em [summary_next_round_countdown] segundos.
+Voce causou [summary_damages] de dano aos seres vivos, e matou [summary_kills] Seres Vivos.

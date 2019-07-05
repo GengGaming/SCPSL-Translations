@@ -1,0 +1,13 @@
+Energia Para ser usada
+Experiencia para Subir de nivel
+Camera Online
+Aperte [KEY] para ver o mapa da fundacao
+Experiencia ganha:
+Trabalho cooperativo
+Suporte por ajudar a matar um Class-D
+Suporte por ajudar a matar um C. I.
+Suporte por ajudar a matar um MTF
+Suporte por ajudar a matar um Scientist
+Suporte por ajudar a matar um SCP
+Portas fechadas: [LOCKED_NUM]<size=25>Aperte botao direito para libertar</size>
+Interacao com objetos da fundacao

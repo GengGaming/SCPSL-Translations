@@ -1,0 +1,5 @@
+Voce Morreu
+Aperte {KEYBINDING_INTERACTION} Para colocar o <color=yellow>Weapon Manager Tablet</color>.
+Aperte {KEYBINDING_INTERACTION} para pegar o <color=yellow>Weapon Manager Tablet</color>.
+Essa <color=yellow>mesa de trabalho</color> ja esta sendo usada por outro Jogador.
+Voce precisa de um <color=yellow>Weapon Manager Tablet</color> Para usar a mesa de trabalho <color=yellow>workstation</color>.

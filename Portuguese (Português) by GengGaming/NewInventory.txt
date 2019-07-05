@@ -1,0 +1,31 @@
+Cartao de fachineiro:Cartão Do Fachineiro Use-a Para abrir a 914!
+Cartao de Cientista:Testes e Testes , Use o Cartão Para abrir a 914 e EUCLIUD SCPs!
+Cartao de Cientista Senior:O Mesmo que do Cientista Mas abra o Checkpoint com ele!
+Cartao de Adimintrador dos Checkpoints:No description
+Cartao de Guarda:Abre Armorys de Baixa Função e Checkpoints!
+Cartao de MTF Guarda:Cartão De Guarda e Abre armorys de Media Função
+Cartao de Engenheiro da fundacao:Abra a "Alpha Warhead" com ele e Checkpoints!
+Cartao de Tenente MTF:Mesmo que do MTF Guarda Abre GATES !
+Cartao de MTF Commandante:Abre Quase tudo Apenas não abre KETER e a "APHA WARDHEAD"
+Cartao de Administrador da fundacao:Abre tudo Menos Armorys !
+Cartao de Chaos Insurgency: Abre Quase tudo Apenas não abre KETER e a "APHA WARDHEAD"
+Cartao do Conselho da fundacao: Abra TUDO com ele!
+Radio:SR = Transmissao Perta \nMR = Transmissao Media \nLR = Transmissao Longa \nUR = Trasmissao Ultra longa \nUses Bateria restante. Transmissao de longa distancia gasta mais bateria.
+COM-15 Sidearm:Pistola Otima para Combater seus inimigos de perto!
+Kit de primeiros socorros:Se Cure!
+Lanterna:Usada Para iluminar Lugares Escuros!
+Micro H.I.D.:Arma De Discarga ELETRICA usada Para combater SCPs!
+Moeda:Moeda Que vale 25 cents !
+Copo:Apenas Um copo Oque há de interessante?
+Weapon Manager Tablet:Usada Para DROPAR municao e Para MODIFICAR sua arma!
+Episilon-11:Arma Usada como RIFLE e SNIPER Dependendo da Ocasião
+P90:Arma De RUSH Ultilizado Pelos Guardas MTF
+Municao de Rifle:Usado na Arma Epislon-11
+MP7:Arma De ASSALT Ultilizada pelos Guardas Da Instalacao!
+Negev:Arma De RUSH Ultilizada Pelos ChaosInsurgency!
+Granada explosiva:Use-a Para Matar Seus Inimigos!
+Flashbang:Use-a Para Cegar seus Inimigos temporariamente!
+Algema:Botao esquerdo para desarmar, botao direito para soltar. \nSegure E em alguem que esta desarmado em sua equipe para liberta-los.
+Municao de SMG:Usado para Armas de SMG como Negev e MP7.
+Municao de 9mm:Usado Em Armas Como PROJECT90 , USP e COM15.
+USP:Pistola Usada Como Suport e conhecido pelos Seus Tiros Penetrantes.
